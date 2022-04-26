@@ -1,0 +1,14 @@
+.load-more {
+    margin-top: 20px;
+
+    visibility: hidden;
+}
+
+.load-more.visible {
+    visibility: visible;
+}
+
+.btn-placeholder {
+    display: flex;
+    justify-content: center;
+}
